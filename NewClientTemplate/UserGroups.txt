@@ -1,0 +1,13 @@
+Trip 2
+
+[DayOfWeek], [Date]
+[Time]
+[Topic]
+[Url]
+
+Trip 1
+
+[DayOfWeek], [Date]
+[Time]
+[Topic]
+[Url]
