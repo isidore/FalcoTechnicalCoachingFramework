@@ -1,12 +1,12 @@
 Trip 2
 Week1
-M. [name] - [notes]
+M. [name] ([resturant]) - [notes]
 T.
 W.
 Th.
 F.
 week 2
-M. [name] - [notes]
+M. [name] ([resturant]) - [notes]
 T.
 W.
 Th.
@@ -14,13 +14,13 @@ F.
 
 Trip 1
 Week1
-M. [name] - [notes]
+M. [name] ([resturant]) - [notes]
 T.
 W.
 Th.
 F.
 week 2
-M. [name] - [notes]
+M. [name] ([resturant]) - [notes]
 T.
 W.
 Th.
