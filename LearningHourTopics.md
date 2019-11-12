@@ -17,6 +17,7 @@
 1. English to code
 1. Exceptional Exceptions
 1. Exercism.io
+1. Exploratory Testing [Heuristics (17) ](https://pbs.twimg.com/media/CSqxyLGVAAAtUT0.png:large) 
 1. Expressive Objects
 1. Extreme Fake it till you make it
 1. Fix & Growth Mindset
@@ -27,6 +28,7 @@
 1. Inline keyboard Kata
 1. Intention Code (talk)
 1. Koans - ApprovalTests
+1. Koans - Java 8
 1. Koans - Linq
 1. Koans - Python
 1. Koans - Reactive 
@@ -34,6 +36,7 @@
 1. Lambdas
 1. Lessons learned from 'The Phoenix Project' & 'The Goal'1. 
 1. Lift If refactoring - splitting on color
+1. Lightning talks
 1. Microskills week. Typing, Coloring Book, Sparrow Decks, Set
 1. Microskills week. Typing, Generous Listening, [TBD] [TBD]
 1. Microskills week. Typing, Visual Thinking Strategies (learning to see), Meditation (Learning to be patience), Clean Language (Learning to listen)
@@ -46,6 +49,7 @@
 1. Peel & Slice - Part 3 Both
 1. Pipeline game - 1 abstract
 1. Pipeline game - 2 your pipeline
+1. Podcast review
 1. Polymorphism without dynamic memory (C++)
 1. Powerpoint Karaoke 
 1. ROI of learning hour
