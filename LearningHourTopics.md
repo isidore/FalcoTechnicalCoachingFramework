@@ -72,3 +72,4 @@
 1. Vectorized Words
 1. Video Hour
 1. Writing Test Scenarios
+1. Intro to Git / Github / Github Actions
